@@ -2,7 +2,6 @@ title = "Notre-Dame de Paris"
 baseURL = "https://hugo.xi21.cool/"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -14,11 +13,11 @@ enableRobotsTXT = true
   [languages.en]
     title = "My blog"
     weight = 1
-    contentDir = "content/en/posts"
+    contentDir = "content/en"
   [languages.zh]
     title = "我的博客"
     weight = 2
-    contentDir = "content/zh/posts"
+    contentDir = "content/zh"
 
 [sitemap]
   changefreq = "monthly"
@@ -30,8 +29,8 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = ""
-  instagram = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = "https://ins.com/shuangxi"
   youtube = ""
   github = ""
   gitlab = ""
