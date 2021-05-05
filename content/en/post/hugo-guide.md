@@ -3,7 +3,6 @@ date: 2021-05-02
 description: ''
 featured_image: '/images/esmeralda.jpg'
 tags: ["tag1","tag2","tag3"]
-categories = ["cat1","cat2"]
 title: 'Ananke guide'
 top: true
 ---
