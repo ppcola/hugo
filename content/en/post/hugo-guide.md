@@ -2,12 +2,13 @@
 date: 2021-05-02
 description: ''
 featured_image: '/images/esmeralda.jpg'
-tags: []
+tags: ["tag1","tag2","tag3"]
+categories = ["cat1","cat2"]
 title: 'Ananke guide'
 top: true
 ---
 
-# Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.
+Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
 

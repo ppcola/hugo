@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "../"
+title = "Shuang-xi"
+baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
 
@@ -40,6 +40,6 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-blue"
+  background_color_class = "bg-gray"
   featured_image = "/images/gohugo-default-sample-hero-image.png"
-  recent_posts_number = 2
+  recent_posts_number = 1
