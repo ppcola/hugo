@@ -1,5 +1,5 @@
 title = "Shuang-xi"
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 
