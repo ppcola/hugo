@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://hugo.xi21.cool/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
