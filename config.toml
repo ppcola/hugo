@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hugo.xi21.cool/"
 languageCode = "en-us"
-title = "Hugo"
+title = "Hug"
 theme = "ananke"

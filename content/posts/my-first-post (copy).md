@@ -2,8 +2,6 @@
 title: '正确使用hugo主题的姿势'
 date: 2021-05-01T17:18:05+01:00
 draft: false
-tags: ["Hugo"]
-categories: ["教程"]
 ---
 
 # Hugo on Vercel
