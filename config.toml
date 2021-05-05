@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -29,8 +29,8 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = "https://ins.com/shuangxi"
+  twitter = ""
+  instagram = ""
   youtube = ""
   github = ""
   gitlab = ""
