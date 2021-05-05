@@ -15,10 +15,10 @@ enableRobotsTXT = true
     title = "My blog"
     weight = 1
     contentDir = "content/en/posts"
-  [languages.cn]
+  [languages.zh]
     title = "我的博客"
     weight = 2
-    contentDir = "content/cn/posts
+    contentDir = "content/zh/posts
 
 [sitemap]
   changefreq = "monthly"
