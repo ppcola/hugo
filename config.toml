@@ -18,7 +18,7 @@ enableRobotsTXT = true
   [languages.zh]
     title = "我的博客"
     weight = 2
-    contentDir = "content/zh/posts
+    contentDir = "content/zh/posts"
 
 [sitemap]
   changefreq = "monthly"
