@@ -7,4 +7,4 @@ menu:
   main: {}
 ---
 
-pp.cola@icloud.com
+{{< form-contact action="https://formspree.io/f/xqkwenpj" >}}
