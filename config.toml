@@ -25,14 +25,14 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "Hi,this is Shuangxi."
+  favicon = "/images/gohugo-default-sample-hero-image.png"
+  site_logo = "/images/site_icon.jpg"
+  description = ""
   facebook = ""
   twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/ppcola"
   gitlab = ""
   linkedin = ""
   mastodon = ""

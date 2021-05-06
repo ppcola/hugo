@@ -1,13 +1,9 @@
 ---
 title: 联系我
-featured_image: '/images/notebook.jpg'
+featured_image: '/images/Screenshot from 2021-05-06 13-42-52.png'
 omit_header_text: true
-description: We'd love to hear from you
 type: page
 menu:
   main: {}
 ---
 
-乐意收到你的来信。
-
-- pp.cola@Icloud.com
