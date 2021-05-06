@@ -8,7 +8,7 @@ date: 2021-05-01
 --- 
 
 这有一些常用属性：
-```yaml
+```
 fields:
  - type: string
    name: title
@@ -32,9 +32,9 @@ fields:
 ```
 
 |项目|价格|
-|---|---|
+|:---|---:|
 |域名|￥60/年|
-|服务器|vercel[个人项目免费]|
+|服务器|vercel(个人项目免费)|
 
 
 详细的配置文件[stackbit.yaml](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/stackbit.yaml)
