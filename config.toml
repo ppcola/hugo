@@ -25,8 +25,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "https://img-blog.csdnimg.cn/20210506212650718.jpg"
-  site_logo = "https://img-blog.csdnimg.cn/20210506212650718.jpg"
+  favicon = "images/site_icon.jpg"
+  site_logo = ""
   description = ""
   facebook = ""
   twitter = ""
