@@ -1,9 +1,10 @@
 ---
 title: 联系我
-featured_image: '/images/Screenshot from 2021-05-06 13-42-52.png'
+featured_image: '/images/notebook.jpg'
 omit_header_text: true
 type: page
 menu:
   main: {}
 ---
 
+ppcola@icloud.com

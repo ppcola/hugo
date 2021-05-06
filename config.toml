@@ -12,11 +12,11 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "My blog"
-    weight = 1
+    weight = 2
     contentDir = "content/en"
   [languages.zh]
     title = "我的博客"
-    weight = 2
+    weight = 4
     contentDir = "content/zh"
 
 [sitemap]
@@ -25,8 +25,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/gohugo-default-sample-hero-image.png"
-  site_logo = "/images/site_icon.jpg"
+  favicon = ""
+  site_logo = ""
   description = ""
   facebook = ""
   twitter = ""
