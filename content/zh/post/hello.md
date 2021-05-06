@@ -5,6 +5,8 @@ date: 2021-05-01
 
 >應該相信，自己是生活的強者。---雨果
 
+![notebook](https://i0.hdslb.com/bfs/article/df7eb85a8338ef14cfc216cd6481ed4734e05552.jpg)
+
 --- 
 
 这有一些常用属性：
@@ -31,10 +33,7 @@ fields:
    label: Draft
 ```
 
-|项目|价格|
-|:---|---:|
-|域名|￥60/年|
-|服务器|vercel(个人项目免费)|
+
 
 
 详细的配置文件[stackbit.yaml](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/stackbit.yaml)
