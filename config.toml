@@ -11,11 +11,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Home"
     weight = 2
     contentDir = "content/en"
   [languages.zh]
-    title = "我的博客"
+    title = "首页"
     weight = 4
     contentDir = "content/zh"
 

@@ -1,9 +1,8 @@
 ---
 title: 'About'
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE.'
 featured_image: ''
 ---
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="https://img-blog.csdnimg.cn/20210508235628485.png" title="Shuangxi" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_The full name of a Han Chinese consists of a family name and a given name. A distinctive feature of the Chinese name is that the family name always comes first, followed by the given name. For thousands of years, Chinese family names have been passed down through the father. Nowadays, however, it is not uncommon for a child to adopt the mother's family name. Generally, a given name is made up of one or two characters, usually carrying the parents' wishes for their child. It can be inferred from the name what kind of person the parents want their child to be, or what kind of life they expect him or her to lead. Chinese parents attach great importance to the choice of their child's name, as the name tends to accompany the child for his or her entire life._
