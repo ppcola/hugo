@@ -1,6 +1,6 @@
 ---
 title: 'Shuangxi'
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'https://hugo1.oss-cn-hangzhou.aliyuncs.com/IMG_0498.MOV'
 description: "Until Death Do Us Part"
 ---
 
