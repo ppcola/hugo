@@ -103,7 +103,7 @@ type: page
 
     // xml
     xmltext = new XMLHttpRequest;
-    xmltext.open("GET", "/index.xml", false);
+    xmltext.open("GET", "/zh/index.xml", false);
     xmltext.send();
     resp = xmltext.responseXML;
     items = resp.getElementsByTagName("item");

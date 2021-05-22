@@ -6,4 +6,4 @@ featured_image: ''
 
 {{< figure src="https://hugo1.oss-cn-hangzhou.aliyuncs.com/583E9A40-FD19-42ED-B4A5-AC2E45701A8F.jpg" title="双喜（2021）" >}}
 
-_这个世界上需要更多的英雄_
+_双喜，生于98年，来自河南太康，_
