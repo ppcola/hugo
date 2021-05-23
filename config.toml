@@ -1,5 +1,5 @@
 title = "Shuang-xi"
-baseURL = "https://example.com"
+baseURL = "https://hugo-ppcola.vercel.app"
 languageCode = "en-us"
 theme = "ananke"
 
