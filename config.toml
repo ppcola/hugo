@@ -1,5 +1,5 @@
 title = "Shuang-xi"
-baseURL = "https://hugo-ppcola.vercel.app"
+baseURL = "https://blog.ppcola.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
