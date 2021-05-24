@@ -38,7 +38,7 @@ type: page
   .search input{
     outline: none;
     border: 2px solid #c05b4d;
-    height: 32px;
+    height: 56px;
     padding: 10px;
   }
   .search button{
