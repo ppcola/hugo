@@ -23,6 +23,7 @@ type: page
   @media screen and (min-width: 500px) {
       .search{
         width: 500px;
+        height: 56px;
       }
 
       .search input{
