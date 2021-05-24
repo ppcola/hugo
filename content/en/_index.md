@@ -1,6 +1,6 @@
 ---
 title: 'Shuangxi'
-featured_image: 'https://hugo1.oss-cn-hangzhou.aliyuncs.com/IMG_0498.MOV'
+featured_image: 'https://img-blog.csdnimg.cn/20210524130919298.jpg'
 description: "Until Death Do Us Part"
 ---
 

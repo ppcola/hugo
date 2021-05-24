@@ -1,10 +1,12 @@
 ---
 title: '你好，雨果'
+featured_image: "https://.JPG"
 description: "應該相信，自己是生活的強者。---雨果"
 date: 2021-05-01
 toc: true
 tags: ["博客"]
 ---
+
 _很久以前就想要拥有一个自己的博客，得益于Verce，它现在以Hugo的方式出现在互联网。_
 
 --- 

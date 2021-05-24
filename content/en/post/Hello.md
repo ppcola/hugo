@@ -1,6 +1,7 @@
 ---
 date: 2021-05-05
 description: 'Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.'
+featured_image: "null"
 toc: true
 title: 'Hello,Hugo'
 ---

@@ -1,6 +1,6 @@
 ---
 title: '你好，'
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'https://img-blog.csdnimg.cn/20210524130919298.jpg'
 description: "这里是双喜的博客。"
 ---
 
