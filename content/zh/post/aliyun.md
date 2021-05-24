@@ -1,9 +1,9 @@
 ---
-date: 2021-05-24 14:04:10 
+date: 2021-05-24
 description: "阿里云的学生服务器，"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["Linux"]
-title: "CenOS环境部署"
+title: 'CenOS环境部署'
 ---
 
 |环境|版本  |
