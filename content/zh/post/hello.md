@@ -1,4 +1,3 @@
-
 ---
 title: '你好，雨果'
 description: "應該相信，自己是生活的強者。---雨果"
@@ -37,6 +36,11 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 
 在GitHub提交后Vercel会自动部署更新。
 
+文章是使用markdown格式，我本来是想用阿里云OSS对象来存储图片，可是域名没有备案，oss无法绑定，使用体验不是很好。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524095101949.png?x-oss-process=image)后来发现CSDN的博客支持图片导入方便，而且导出md文件后图片也能正常访问，目前就用CSDN当图床。
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021052409533592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NjYwNzQ3,size_16,color_FFFFFF,t_70)
+
 #### 更改主题
 如果想要更改主题，把想要更改的主题下载后放到themes目录下
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524093542184.png?x-oss-process=image)再将config.toml 文件中的Theme=" "换成对应的名称
@@ -47,19 +51,6 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524094257408.png?x-oss-process=image)
 ![社交板块](https://img-blog.csdnimg.cn/20210524094551599.png?x-oss-process=image)
-#### 博文
-
-文章是使用markdown格式，我本来是想用阿里云OSS对象来存储图片，可是域名没有备案，oss无法绑定，使用体验不是很好。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524095101949.png?x-oss-process=image)后来发现CSDN的博客支持图片导入方便，而且导出md文件后图片也能正常访问，目前就用CSDN当图床。
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2021052409533592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NjYwNzQ3,size_16,color_FFFFFF,t_70)
-
-
-
-
-
-
-
 
 
 
