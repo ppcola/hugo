@@ -1,17 +1,17 @@
 ---
 date: 2021-05-24
 description: "阿里云的学生服务器，"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "https://img-blog.csdnimg.cn/20210524142839110.png"
 tags: ["Linux"]
-title: 'CenOS环境部署'
+title: "CenOS环境部署"
 ---
 
-|环境|版本  |
-|--|--|
-| CentOS |7.6  |
+|环境|版本|
+|---|---|
+| CentOS |7.6|
 |JDK|1.8|
 |MySQL|5.7|
-|Tomcat|***|
+|Tomcat|*|
 
 
 
