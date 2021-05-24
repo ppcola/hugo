@@ -1,6 +1,7 @@
 title = "Shuang-xi"
 baseURL = "https://blog.ppcola.com"
 languageCode = "en-us"
+hasCJKLanguage = true #开启可以让「字数统计」统计汉字
 theme = "gohugo-theme-ananke"
 
 DefaultContentLanguage = "en"

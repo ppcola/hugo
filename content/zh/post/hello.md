@@ -50,17 +50,35 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524093542184.png?x-oss-process=image)再将config.toml 文件中的Theme=" "换成对应的名称
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524093710543.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NjYwNzQ3,size_16,color_FFFFFF,t_70)主题中会有使用帮助，查看Readme可以了解特性，我当前使用的主题[ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
+### 一些修改
+
+- 隐藏分享模块
 
 界面的样式可以在这个文件夹下发现，我将social-share.html中的div注释后将主题中海外社交媒体分享隐藏。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524094257408.png?x-oss-process=image)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524094257408.png?x-oss-process=image)取消前的效果:
 ![社交板块](https://img-blog.csdnimg.cn/20210524094551599.png?x-oss-process=image)
+
+-  隐藏了post页面下大段文字
+
+![vim](https://img-blog.csdnimg.cn/20210524223622783.png)
+
+注释后的效果：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524223850407.png)
+上面注释是因为显示的摘要过长。我本来以为是bug在要提issue时发现了这个：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524225548781.png)
+在配置文件中添加统计汉字的参数
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524225608518.png)
+
 
 
 
 ### 效果
 
 ![首页截图](https://img-blog.csdnimg.cn/20210524090606946.png?x-oss-process=image)
+
 
 
 
