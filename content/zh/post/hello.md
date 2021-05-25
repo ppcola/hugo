@@ -15,13 +15,10 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 - Cloudflare代理
 
 
-### 部署Hugo
+## 部署Hugo
 从Template 中 clone项目，Template下面有Hugo模版，
 
-
-
 在Vercel官网下点击New Project
-
 
 ![Vercel首页](https://img-blog.csdnimg.cn/2021052409094727.png?x-oss-process=image)
 进入项目导入方式页面，选择从Template 中 clone项目，
@@ -36,7 +33,7 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 国内访问有时候会受限，套上Cloudflare之后体验会更好。
 
 
-### 使用
+## 使用
 
 在GitHub提交后Vercel会自动部署更新。
 
@@ -45,12 +42,12 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021052409533592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NjYwNzQ3,size_16,color_FFFFFF,t_70)
 
-#### 更改主题
+## 更改主题
 如果想要更改主题，把想要更改的主题下载后放到themes目录下
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524093542184.png?x-oss-process=image)再将config.toml 文件中的Theme=" "换成对应的名称
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524093710543.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NjYwNzQ3,size_16,color_FFFFFF,t_70)主题中会有使用帮助，查看Readme可以了解特性，我当前使用的主题[ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
-### 一些修改
+## 一些修改
 
 - 隐藏分享模块
 
@@ -73,9 +70,7 @@ _很久以前就想要拥有一个自己的博客，得益于Verce，它现在�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524225608518.png)
 
 
-
-
-### 效果
+## 效果
 
 ![首页截图](https://img-blog.csdnimg.cn/20210524090606946.png?x-oss-process=image)
 
