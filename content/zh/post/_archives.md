@@ -1,9 +1,9 @@
 ---
 title: "文章归档"
-omit_header_text: true
 layout: archives
 hidden: true
-type: post
-menu:
-  main: {}
+type: posts
+summary: 历史文章按照年月归档.
+url: /archives/
 ---
+
