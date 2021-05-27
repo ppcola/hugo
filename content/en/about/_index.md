@@ -1,8 +1,11 @@
 ---
 title: 'About'
 featured_image: ''
-description: 'You know , hava a good time'
+description: 'Shuangxi,born in 1998 in Henan / China,#Enlish beginner#Over Watch player'
 ---
 
+**Contact**
 
-_Shuangxi,born in 1998 in Henan / China,#Enlish beginner_
+Mail:
+
+_pp.cola@icloud.com_

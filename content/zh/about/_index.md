@@ -1,9 +1,12 @@
 ---
 title: '关于'
-description: '很久之前我就想拥有一个技术博客，得益于vercel，现在它以雨果的方式出现在互联网中。: —双喜.'
-featured_image: ''
+description: '双喜，生于98年，来自河南,曾在中原工学院学习软件技术，现在对Java有兴趣。'
 ---
 
-{{< figure src="https://hugo1.oss-cn-hangzhou.aliyuncs.com/583E9A40-FD19-42ED-B4A5-AC2E45701A8F.jpg" title="双喜（2021）" >}}
+{{< figure src="https://hugo1.oss-cn-hangzhou.aliyuncs.com/2021/IMG_E0419.JPG?x-oss-process=style/define" title="双喜（2021）" >}}
 
-_双喜，生于98年，来自河南，#Java_
+**联系我**
+
+邮箱：
+
+_pp.cola@icloud.com_
